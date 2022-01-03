@@ -1,0 +1,2 @@
+class YorkStudent < ApplicationRecord
+end
